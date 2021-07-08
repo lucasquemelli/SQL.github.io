@@ -3,7 +3,7 @@ This is a repository about the basics of SQL.
 
 # SQL statements
 
-![image](https://user-images.githubusercontent.com/81119854/124932974-e2267300-dfd9-11eb-8c26-72a71f6d728a.png)
+![image](https://user-images.githubusercontent.com/81119854/124934391-0898de00-dfdb-11eb-9534-4599b54cd62b.png)
 ![image](https://user-images.githubusercontent.com/81119854/124933026-eeaacb80-dfd9-11eb-9d94-15bde10636b7.png)
 ![image](https://user-images.githubusercontent.com/81119854/124933094-fff3d800-dfd9-11eb-94a8-c7a6c546fc38.png)
 
