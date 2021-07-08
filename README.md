@@ -37,11 +37,12 @@ This is a repository about the basics of SQL.
 
 Note above that "not equal to" sign in SQL is <> and not !=. Remember to use quotation mark in strings. 
 
+# Some expressions used with SELECT statements
+
 ![image](https://user-images.githubusercontent.com/81119854/124970043-d2b92100-dffd-11eb-9c3f-83beb791e023.png)
 ![image](https://user-images.githubusercontent.com/81119854/124970101-e1073d00-dffd-11eb-929a-cd6296a29348.png)
 ![image](https://user-images.githubusercontent.com/81119854/124970140-ed8b9580-dffd-11eb-856a-df7b9ad96e4e.png)
 
-# Some expressions used with SELECT statements
 
 ![image](https://user-images.githubusercontent.com/81119854/124970547-70145500-dffe-11eb-8bf3-69017ac31a34.png)
 ![image](https://user-images.githubusercontent.com/81119854/124970590-7c001700-dffe-11eb-873f-4d6a67520986.png)
