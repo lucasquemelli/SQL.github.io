@@ -128,5 +128,15 @@ OR
 ![image](https://user-images.githubusercontent.com/81119854/124982103-b83a7400-e00c-11eb-92ac-8466d0924050.png)
 
 
+# INSERT, UPDATE and DELETE commands
+
+![image](https://user-images.githubusercontent.com/81119854/125001022-10cb3a80-e028-11eb-8d75-845f29420d93.png)
+![image](https://user-images.githubusercontent.com/81119854/125001048-1c1e6600-e028-11eb-8584-3ec8e47698a0.png)
+
+
+![image](https://user-images.githubusercontent.com/81119854/125001129-525be580-e028-11eb-9998-3f3819612f42.png)
+![image](https://user-images.githubusercontent.com/81119854/125001151-5c7de400-e028-11eb-99ec-afdb33697ccf.png)
+
+
 
 
