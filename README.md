@@ -28,3 +28,11 @@ This is a repository about the basics of SQL.
 ![image](https://user-images.githubusercontent.com/81119854/124957558-9a124b00-dfef-11eb-8113-f2d4cee0ca23.png)
 ![image](https://user-images.githubusercontent.com/81119854/124957610-a4344980-dfef-11eb-8164-e9c215b3321a.png)
 ![image](https://user-images.githubusercontent.com/81119854/124957671-b57d5600-dfef-11eb-99bd-ab1f610792ad.png)
+
+
+![image](https://user-images.githubusercontent.com/81119854/124959103-4274df00-dff1-11eb-8980-2b501fd01bd4.png)
+![image](https://user-images.githubusercontent.com/81119854/124959153-4e60a100-dff1-11eb-9bc5-7e288c52077d.png)
+![image](https://user-images.githubusercontent.com/81119854/124959199-5b7d9000-dff1-11eb-9793-0b42639a696a.png)
+![image](https://user-images.githubusercontent.com/81119854/124959298-72bc7d80-dff1-11eb-9879-850963e07f8b.png)
+
+Note above that "not equal to" sign in SQL is <> and not !=. Remember to use quotation mark in strings. 
