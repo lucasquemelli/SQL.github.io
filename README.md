@@ -13,4 +13,5 @@ This is a repository about the basics of SQL.
 
 ![image](https://user-images.githubusercontent.com/81119854/124933808-8dcfc300-dfda-11eb-89b2-032f8bc8a4c2.png)
 ![image](https://user-images.githubusercontent.com/81119854/124933899-a344ed00-dfda-11eb-9165-7564e6c98179.png)
+![image](https://user-images.githubusercontent.com/81119854/124935599-2d418580-dfdc-11eb-8d7c-f83a25be586a.png)
 ![image](https://user-images.githubusercontent.com/81119854/124933976-b5269000-dfda-11eb-9647-54f0e3d9e643.png)
