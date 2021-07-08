@@ -53,6 +53,11 @@ Note above that "not equal to" sign in SQL is <> and not !=. Remember to use quo
 ![image](https://user-images.githubusercontent.com/81119854/124971167-414aae80-dfff-11eb-95d9-f5dd2bcf2ea0.png)
 
 
+![image](https://user-images.githubusercontent.com/81119854/124971362-7820c480-dfff-11eb-93cc-9fe3b2a27d07.png)
+![image](https://user-images.githubusercontent.com/81119854/124971399-81aa2c80-dfff-11eb-8df1-05dd2bf47139.png)
+![image](https://user-images.githubusercontent.com/81119854/124971436-8c64c180-dfff-11eb-8025-159e59da77db.png)
+![image](https://user-images.githubusercontent.com/81119854/124971462-971f5680-dfff-11eb-9af8-fcd80f4a2aae.png)
+
 
 
 
