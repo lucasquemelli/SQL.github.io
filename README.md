@@ -82,4 +82,12 @@ OR
 ![image](https://user-images.githubusercontent.com/81119854/124976253-6510f300-e005-11eb-8987-4560eccbdb02.png)
 
 
+![image](https://user-images.githubusercontent.com/81119854/124977560-fe8cd480-e006-11eb-9fbe-9bb23e5625e4.png)
+![image](https://user-images.githubusercontent.com/81119854/124977590-08163c80-e007-11eb-9f51-707b5c408d68.png)
+![image](https://user-images.githubusercontent.com/81119854/124977616-106e7780-e007-11eb-9fe3-ec2639be70b2.png)
+![image](https://user-images.githubusercontent.com/81119854/124977647-1d8b6680-e007-11eb-95e9-7e5a8afd3021.png)
+![image](https://user-images.githubusercontent.com/81119854/124977695-2bd98280-e007-11eb-9fdb-48c20cef1475.png)
+
+
+
 
