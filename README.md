@@ -187,6 +187,9 @@ OR
 ![image](https://user-images.githubusercontent.com/81119854/125005687-ba172e00-e032-11eb-92c6-4130d6b2469e.png)
 
 
+# Creating tables on IBM Db2 on Cloud
+
+![image](https://user-images.githubusercontent.com/81119854/125172451-34a99000-e190-11eb-816f-8852606bda4f.png)
 
 
 
