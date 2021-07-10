@@ -277,6 +277,28 @@ In this exercise, you will learn how data can be loaded into Db2. You could manu
 
 ![image](https://user-images.githubusercontent.com/81119854/125174745-fc10b300-e19d-11eb-9732-af068c9fb421.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125174774-24001680-e19e-11eb-8fa7-f625d03daafd.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174809-4003b800-e19e-11eb-92da-1f3c03027d07.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174826-53168800-e19e-11eb-89f0-4c91288aa1db.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174832-60337700-e19e-11eb-9095-5cadc51e7499.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174841-6d506600-e19e-11eb-8d82-e5bf13d6008c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174863-8c4ef800-e19e-11eb-96af-0824c2ac1265.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174869-983aba00-e19e-11eb-97a0-d8c5c41b9c55.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174879-ac7eb700-e19e-11eb-8c7a-7d97b63a6734.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174898-d041fd00-e19e-11eb-9f8d-c938023c2f61.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125174910-e0f27300-e19e-11eb-8cd3-45f67f45f337.png)
+
+
+
 
 
 
