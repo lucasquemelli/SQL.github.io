@@ -230,6 +230,7 @@ OR
 # How to execute a script containing the CREATE TABLE commands for all the tables rather than create each table manually by typing the DDL commands in the SQL editor
 
 ![image](https://user-images.githubusercontent.com/81119854/125174302-b2729900-e19a-11eb-819f-c86883205400.png)
+
 ![image](https://user-images.githubusercontent.com/81119854/125174306-be5e5b00-e19a-11eb-9c64-8f750fcf2d53.png)
 ![image](https://user-images.githubusercontent.com/81119854/125174310-cc13e080-e19a-11eb-9e5f-ca3afc27a026.png)
 ![image](https://user-images.githubusercontent.com/81119854/125174311-d930cf80-e19a-11eb-819a-bc18ad739230.png)
