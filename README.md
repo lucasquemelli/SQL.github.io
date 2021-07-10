@@ -257,6 +257,27 @@ OR
 ![image](https://user-images.githubusercontent.com/81119854/125174526-632d6800-e19c-11eb-8e45-2120aa4ecc0b.png)
 
 
+# Load data into tables
+
+In this exercise, you will learn how data can be loaded into Db2. You could manually insert each row into the table one by one, but that would take a long time. Instead, Db2 (and almost every other database) allows you to load data from .CSV files.
+
+![image](https://user-images.githubusercontent.com/81119854/125174595-da62fc00-e19c-11eb-93a0-35040781f3db.png)
+![image](https://user-images.githubusercontent.com/81119854/125174601-e64ebe00-e19c-11eb-95d6-2c22007115c7.png)
+![image](https://user-images.githubusercontent.com/81119854/125174611-febed880-e19c-11eb-9138-8d1014037ef1.png)
+
+
+![image](https://user-images.githubusercontent.com/81119854/125174634-257d0f00-e19d-11eb-93a0-ef497aa1d218.png)
+![image](https://user-images.githubusercontent.com/81119854/125174647-3a59a280-e19d-11eb-8b12-19f95693a235.png)
+![image](https://user-images.githubusercontent.com/81119854/125174722-dbe0f400-e19d-11eb-810d-cda3129ec951.png)
+
+
+![image](https://user-images.githubusercontent.com/81119854/125174728-e56a5c00-e19d-11eb-8bf8-85e1847e9036.png)
+![image](https://user-images.githubusercontent.com/81119854/125174736-f1561e00-e19d-11eb-8e37-3c74fa0e66ac.png)
+
+
+![image](https://user-images.githubusercontent.com/81119854/125174745-fc10b300-e19d-11eb-9732-af068c9fb421.png)
+
+
 
 
 
