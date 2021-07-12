@@ -339,3 +339,5 @@ In this part of the project, we will work with this data:
 ![image](https://user-images.githubusercontent.com/81119854/125337423-5c7e2c80-e325-11eb-9fb3-1cff54e996ce.png)
 ![image](https://user-images.githubusercontent.com/81119854/125337693-aebf4d80-e325-11eb-8d87-6f0d8068d4e2.png)
 
+# Built-in functions - aggregate, scalar, string, date and time functions 
+
