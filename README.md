@@ -305,6 +305,7 @@ In this part of the project, we will work with this data:
 
 ![image](https://user-images.githubusercontent.com/81119854/125324344-3604c500-e316-11eb-84d3-456e809ea896.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125324598-72382580-e316-11eb-8560-10a49cad27d9.png)
 
 
 
