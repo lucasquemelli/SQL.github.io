@@ -299,7 +299,11 @@ In this exercise, you will learn how data can be loaded into Db2. You could manu
 
 # String Patterns
 
+In this part of the project, we will work with this data:
 
+![image](https://user-images.githubusercontent.com/81119854/125324182-09e94400-e316-11eb-8272-86cc2bd727e6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125324344-3604c500-e316-11eb-84d3-456e809ea896.png)
 
 
 
