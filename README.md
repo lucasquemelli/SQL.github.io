@@ -327,6 +327,8 @@ In this part of the project, we will work with this data:
 ![image](https://user-images.githubusercontent.com/81119854/125334728-15db0300-e322-11eb-8f28-a3b14bfd2b26.png)
 ![image](https://user-images.githubusercontent.com/81119854/125335485-fdb7b380-e322-11eb-9c47-faa5b00b1196.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125335594-1cb64580-e323-11eb-9314-d429e17f9b23.png)
+![image](https://user-images.githubusercontent.com/81119854/125336199-de6d5600-e323-11eb-8aaf-a48b36f050c8.png)
 
 
 
