@@ -330,5 +330,9 @@ In this part of the project, we will work with this data:
 ![image](https://user-images.githubusercontent.com/81119854/125335594-1cb64580-e323-11eb-9314-d429e17f9b23.png)
 ![image](https://user-images.githubusercontent.com/81119854/125336199-de6d5600-e323-11eb-8aaf-a48b36f050c8.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125336296-fe047e80-e323-11eb-9816-b534231e0ba5.png)
+![image](https://user-images.githubusercontent.com/81119854/125336543-4de34580-e324-11eb-832a-55e265e115a2.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125336596-5b003480-e324-11eb-9402-14418d4e84f0.png)
+![image](https://user-images.githubusercontent.com/81119854/125337292-33f63280-e325-11eb-9582-c5ce75033da5.png)
 
