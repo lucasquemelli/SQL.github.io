@@ -341,3 +341,7 @@ In this part of the project, we will work with this data:
 
 # Built-in functions - aggregate, scalar, string, date and time functions 
 
+The dataframe used in this part of the project:
+
+![image](https://user-images.githubusercontent.com/81119854/125369794-63239880-e353-11eb-9df4-dff0aaad3b24.png)
+
