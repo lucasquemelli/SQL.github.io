@@ -317,4 +317,7 @@ In this part of the project, we will work with this data:
 # Sorting 
 
 ![image](https://user-images.githubusercontent.com/81119854/125328696-fbe9f200-e31a-11eb-835b-ea9472f0b868.png)
+![image](https://user-images.githubusercontent.com/81119854/125329515-f6d97280-e31b-11eb-9ab4-c8496f920c6c.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125329723-343e0000-e31c-11eb-9980-c3a320dfda2b.png)
 
