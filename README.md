@@ -322,5 +322,6 @@ In this part of the project, we will work with this data:
 ![image](https://user-images.githubusercontent.com/81119854/125329723-343e0000-e31c-11eb-9980-c3a320dfda2b.png)
 ![image](https://user-images.githubusercontent.com/81119854/125330948-c1358900-e31d-11eb-80d2-429fa4914251.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125331089-e629fc00-e31d-11eb-86e4-63ccf4b45822.png)
 
 
