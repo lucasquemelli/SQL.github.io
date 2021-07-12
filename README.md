@@ -297,7 +297,7 @@ In this exercise, you will learn how data can be loaded into Db2. You could manu
 
 ![image](https://user-images.githubusercontent.com/81119854/125174910-e0f27300-e19e-11eb-8cd3-45f67f45f337.png)
 
-
+# String Patterns
 
 
 
