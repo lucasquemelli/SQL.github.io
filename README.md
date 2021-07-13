@@ -401,4 +401,13 @@ The dataframe used in this part of the project:
 
 In the image above, the difference date between the current date and the rescued date is in YMMDD (year-month-day digits).
 
+# Sub-queries and Nested selects
+
+![image](https://user-images.githubusercontent.com/81119854/125464767-3e3c01ec-a1ad-4448-bab5-566c5b5df56a.png)
+![image](https://user-images.githubusercontent.com/81119854/125465373-a9fb1833-50c4-4262-93c2-afde11240d6a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125465550-c8f2af03-cdc9-484c-bbdc-98585ea860bc.png)
+![image](https://user-images.githubusercontent.com/81119854/125466104-24ddee28-b75a-4c5e-be54-a44252f1d496.png)
+
+
 
