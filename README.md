@@ -382,7 +382,23 @@ The dataframe used in this part of the project:
 
 # Date and Time Functions
 
+![image](https://user-images.githubusercontent.com/81119854/125371965-52295600-e358-11eb-80d8-758bce61a8d4.png)
+![image](https://user-images.githubusercontent.com/81119854/125372053-88ff6c00-e358-11eb-89a0-486f7ffdcd48.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125372067-9288d400-e358-11eb-8e8e-6832283ac9f8.png)
+![image](https://user-images.githubusercontent.com/81119854/125372248-03c88700-e359-11eb-8846-a61c9ae554b6.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125372266-0cb95880-e359-11eb-9e73-75deb609c364.png)
+![image](https://user-images.githubusercontent.com/81119854/125372293-222e8280-e359-11eb-993c-46d2b829af71.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125372325-35415280-e359-11eb-9ba0-06945a01abf0.png)
+![image](https://user-images.githubusercontent.com/81119854/125372473-90734500-e359-11eb-9f86-82e39507a0f0.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125372501-a3861500-e359-11eb-9faf-a37864865f89.png)
+![image](https://user-images.githubusercontent.com/81119854/125372734-332bc380-e35a-11eb-97b8-61ffc64389ef.png)
+![image](https://user-images.githubusercontent.com/81119854/125372751-3c1c9500-e35a-11eb-8447-c786ef0745ba.png)
+![image](https://user-images.githubusercontent.com/81119854/125372764-4474d000-e35a-11eb-9fa3-507f3c2a8e53.png)
+
+In the image above, the difference date between the current date and the rescued date is in YMMDD (year-month-day digits).
 
 
