@@ -362,4 +362,25 @@ The dataframe used in this part of the project:
 ![image](https://user-images.githubusercontent.com/81119854/125370521-02955b00-e355-11eb-93d9-45b002d2a4f5.png)
 ![image](https://user-images.githubusercontent.com/81119854/125370699-759ed180-e355-11eb-83be-965bf650af78.png)
 
+# Scalar and String Functions 
+
+![image](https://user-images.githubusercontent.com/81119854/125370835-c1ea1180-e355-11eb-8552-091b45bb43fd.png)
+![image](https://user-images.githubusercontent.com/81119854/125370942-0c6b8e00-e356-11eb-9832-b5137c5b94c5.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125370956-17262300-e356-11eb-96de-7236a5b0a177.png)
+![image](https://user-images.githubusercontent.com/81119854/125371068-55bbdd80-e356-11eb-99a6-364631b04aaf.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125371086-5e141880-e356-11eb-9e92-805a9e7a16dc.png)
+![image](https://user-images.githubusercontent.com/81119854/125371153-87cd3f80-e356-11eb-9025-df57aaac44c6.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125371181-9582c500-e356-11eb-93a3-14036a9713fa.png)
+![image](https://user-images.githubusercontent.com/81119854/125371311-dd095100-e356-11eb-9bf0-49d1a8086462.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125371322-e8f51300-e356-11eb-9f95-a72b11904f66.png)
+![image](https://user-images.githubusercontent.com/81119854/125371497-412c1500-e357-11eb-9e3e-1ddbaf38435c.png)
+![image](https://user-images.githubusercontent.com/81119854/125371518-4b4e1380-e357-11eb-94c1-7fe10c94ec2b.png)
+
+
+
+
 
