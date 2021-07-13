@@ -345,11 +345,19 @@ The dataframe used in this part of the project:
 
 ![image](https://user-images.githubusercontent.com/81119854/125369794-63239880-e353-11eb-9df4-dff0aaad3b24.png)
 
+# Agreggate Functions
+
 ![image](https://user-images.githubusercontent.com/81119854/125369978-d0372e00-e353-11eb-8d2f-2fca5b18ce27.png)
 ![image](https://user-images.githubusercontent.com/81119854/125369987-d75e3c00-e353-11eb-995a-b83baa6f7c14.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/125370162-3623b580-e354-11eb-8e71-7447ed370295.png)
 ![image](https://user-images.githubusercontent.com/81119854/125370170-3cb22d00-e354-11eb-916c-aafa1bfc111f.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125370309-8a2e9a00-e354-11eb-9f31-681d41f500a5.png)
+![image](https://user-images.githubusercontent.com/81119854/125370324-91ee3e80-e354-11eb-93c3-dfad768ec4a9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125370389-bc3ffc00-e354-11eb-819a-85164a2539b6.png)
+![image](https://user-images.githubusercontent.com/81119854/125370446-d5e14380-e354-11eb-8b59-50b5b878cee9.png)
 
 
 
