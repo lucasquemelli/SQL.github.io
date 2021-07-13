@@ -359,5 +359,6 @@ The dataframe used in this part of the project:
 ![image](https://user-images.githubusercontent.com/81119854/125370389-bc3ffc00-e354-11eb-819a-85164a2539b6.png)
 ![image](https://user-images.githubusercontent.com/81119854/125370446-d5e14380-e354-11eb-8b59-50b5b878cee9.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125370521-02955b00-e355-11eb-93d9-45b002d2a4f5.png)
 
 
