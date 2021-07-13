@@ -380,6 +380,8 @@ The dataframe used in this part of the project:
 ![image](https://user-images.githubusercontent.com/81119854/125371497-412c1500-e357-11eb-9e3e-1ddbaf38435c.png)
 ![image](https://user-images.githubusercontent.com/81119854/125371518-4b4e1380-e357-11eb-94c1-7fe10c94ec2b.png)
 
+# Date and Time Functions
+
 
 
 
