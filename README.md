@@ -473,7 +473,15 @@ Firstly, we import library. Then, we enter the database credentials.
 
 ![image](https://user-images.githubusercontent.com/81119854/125804525-d4f642ee-cd44-4570-9b1e-90354108b1a3.png)
 
+# Creating tables, inserting and querying data
 
+![image](https://user-images.githubusercontent.com/81119854/125830638-2b3d508d-8c93-4163-a6c4-0cb3ad357dd9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125830686-6c5b164b-d576-4523-8fee-66b3e07ac205.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125830781-ea7dba09-41d1-4682-a9c5-646d344966c7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125830900-68f3a74d-c2ce-43ff-a166-bf4fa595c084.png)
 
 
 
