@@ -498,3 +498,12 @@ Firstly, we import library. Then, we enter the database credentials.
 ![image](https://user-images.githubusercontent.com/81119854/125843257-d021f101-e2e9-42ea-b4a2-221db8d0248d.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/125843629-ee799617-1dec-47f9-b956-f0da292cb6f0.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125846962-770b2d6b-7ab6-4d28-b22e-f8cbc60d0a55.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125847225-6c2aad40-5202-445e-9711-938835a2d77a.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125847238-90ba7e0d-36f0-4b01-904c-9f4f6bdbdcce.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125847431-2e7a33f0-1ead-429c-a6c2-009ff251294c.png)
+
