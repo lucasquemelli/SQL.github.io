@@ -459,22 +459,19 @@ In the image above, the difference date between the current date and the rescued
 
 Firstly, we import library. Then, we enter the database credentials.
 
-![image](https://user-images.githubusercontent.com/81119854/125796061-3cb625b4-0d24-4588-8a9d-7b6868749f85.png)
+![image](https://user-images.githubusercontent.com/81119854/125804083-d323f46f-be13-41cf-a49f-a29809751c09.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125796399-39512647-102f-4b57-98ca-83fb71131460.png)
+![image](https://user-images.githubusercontent.com/81119854/125804144-27bd57c1-375d-424a-94d4-cb457a2958e7.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125800246-b0173ff9-786d-40b8-83b8-8601f45ed397.png)
+![image](https://user-images.githubusercontent.com/81119854/125804237-da7d8935-8777-44c7-83ad-00e4ab31b524.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125800323-02e459b0-d905-4fed-9460-1b96b38185f2.png)
+![image](https://user-images.githubusercontent.com/81119854/125804310-e023c091-c9a7-4646-8b35-a323d7a3c2fe.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125804406-b02608f9-82f1-41ac-8ece-bb100fd1513d.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125804457-89841eb1-f08a-4e81-bc2a-81948a6ea267.png)
 
-Novas entradas
-![image](https://user-images.githubusercontent.com/81119854/125803327-6b9a263e-090b-4af2-9163-d5ce5b85652f.png)
-
-
-
-
+![image](https://user-images.githubusercontent.com/81119854/125804525-d4f642ee-cd44-4570-9b1e-90354108b1a3.png)
 
 
 
