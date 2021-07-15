@@ -483,6 +483,8 @@ Firstly, we import library. Then, we enter the database credentials.
 
 ![image](https://user-images.githubusercontent.com/81119854/125832574-f87ccf07-a98b-4137-8aa3-5cab572cd9c3.png)
 
+Creating the table:
+
 ![image](https://user-images.githubusercontent.com/81119854/125832615-e550a467-a355-49ef-86fb-5633955eec89.png)
 
 
