@@ -495,3 +495,6 @@ Firstly, we import library. Then, we enter the database credentials.
 
 ![image](https://user-images.githubusercontent.com/81119854/125842922-e6e0bd66-232e-4ba8-b4d0-b22b293c0d0f.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125843257-d021f101-e2e9-42ea-b4a2-221db8d0248d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125843629-ee799617-1dec-47f9-b956-f0da292cb6f0.png)
