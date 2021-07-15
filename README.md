@@ -487,4 +487,7 @@ Creating the table:
 
 ![image](https://user-images.githubusercontent.com/81119854/125832615-e550a467-a355-49ef-86fb-5633955eec89.png)
 
+![image](https://user-images.githubusercontent.com/81119854/125834390-1697e166-c991-4b84-9df5-26a7a5f8271e.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125834660-98007559-d8ab-493d-9feb-50f53d56242f.png)
 
