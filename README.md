@@ -455,7 +455,13 @@ In the image above, the difference date between the current date and the rescued
 ![image](https://user-images.githubusercontent.com/81119854/125498485-64fbf49e-d274-47d1-a561-8ecd7a80fe1a.png)
 ![image](https://user-images.githubusercontent.com/81119854/125498509-34de1b15-8e19-4f17-b76f-934b62f2bb66.png)
 
+# Connect to Db2 database on Cloud using Python
 
+Firstly, we import library. Then, we enter the database credentials.
+
+![image](https://user-images.githubusercontent.com/81119854/125796061-3cb625b4-0d24-4588-8a9d-7b6868749f85.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125796399-39512647-102f-4b57-98ca-83fb71131460.png)
 
 
 
