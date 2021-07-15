@@ -467,13 +467,7 @@ Firstly, we import library. Then, we enter the database credentials.
 
 ![image](https://user-images.githubusercontent.com/81119854/125800323-02e459b0-d905-4fed-9460-1b96b38185f2.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125800446-c6dc0c9f-b555-49b6-8fc3-c86c4e4fd216.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125801129-dc275c94-e53a-4dab-90bf-625ea9d1306b.png)
-
-![image](https://user-images.githubusercontent.com/81119854/125801194-aa9d6d82-008f-42d4-9849-57bfd42c09c0.png)
-
-![image](https://user-images.githubusercontent.com/81119854/125801246-bc86a7b5-77fc-49e0-a38d-68f9110396fe.png)
 
 Novas entradas
 ![image](https://user-images.githubusercontent.com/81119854/125803327-6b9a263e-090b-4af2-9163-d5ce5b85652f.png)
