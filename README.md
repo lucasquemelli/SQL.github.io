@@ -493,11 +493,11 @@ Creating the table:
 
 ![image](https://user-images.githubusercontent.com/81119854/125834660-98007559-d8ab-493d-9feb-50f53d56242f.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125835165-272a4431-5ec3-4ae0-a7cc-157cc3d1506c.png)
-
 x
 
 ![image](https://user-images.githubusercontent.com/81119854/125841901-a9723a46-003b-4923-900b-1418eab19a2b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125835165-272a4431-5ec3-4ae0-a7cc-157cc3d1506c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/125835250-71ac1bd5-9db9-4c2d-b4b2-cb881040c0de.png)
 
