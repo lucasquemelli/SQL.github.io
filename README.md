@@ -495,10 +495,10 @@ Creating the table:
 
 ![image](https://user-images.githubusercontent.com/81119854/125835165-272a4431-5ec3-4ae0-a7cc-157cc3d1506c.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125835250-71ac1bd5-9db9-4c2d-b4b2-cb881040c0de.png)
-
 x
 
 ![image](https://user-images.githubusercontent.com/81119854/125841901-a9723a46-003b-4923-900b-1418eab19a2b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125835250-71ac1bd5-9db9-4c2d-b4b2-cb881040c0de.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/125838568-fa7ce5f3-8a50-4df1-8489-6363d0a32551.png)
