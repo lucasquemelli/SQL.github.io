@@ -475,30 +475,23 @@ Firstly, we import library. Then, we enter the database credentials.
 
 # Creating tables, inserting and querying data
 
-![image](https://user-images.githubusercontent.com/81119854/125832274-1fe8f9c5-38e4-4b06-ab76-4eb99ab9149d.png)
+![image](https://user-images.githubusercontent.com/81119854/125842331-6e3b270a-c84a-46a6-8259-a5f3d16d5590.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125832338-2d1c8655-a0aa-4796-b9da-cc8c350e0991.png)
+![image](https://user-images.githubusercontent.com/81119854/125842373-5e1a3c41-e1a7-4086-bad6-1b0522480dac.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125832431-a08b375d-c66f-4d30-b13e-71bee9f0239c.png)
+![image](https://user-images.githubusercontent.com/81119854/125842451-3358fac0-9dc1-4254-a6c6-24bff8c795f6.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125832574-f87ccf07-a98b-4137-8aa3-5cab572cd9c3.png)
+![image](https://user-images.githubusercontent.com/81119854/125842529-08a030af-ca26-467c-ab7d-043c5df9f16d.png)
 
-Creating the table:
+![image](https://user-images.githubusercontent.com/81119854/125842563-70a150d2-7305-499c-a6d8-e017105f317a.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125832615-e550a467-a355-49ef-86fb-5633955eec89.png)
+![image](https://user-images.githubusercontent.com/81119854/125842648-2b3026a4-0599-4a40-9ca5-daf0d632cfd4.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125834390-1697e166-c991-4b84-9df5-26a7a5f8271e.png)
+![image](https://user-images.githubusercontent.com/81119854/125842713-daa9b184-de1e-41ec-a2c9-97ffeb93fe12.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125839282-1b4d23f4-d290-488b-bfb6-95222079ec5d.png)
+![image](https://user-images.githubusercontent.com/81119854/125842795-42fbc10b-98b6-4dae-9716-e9435f90d3b5.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125834660-98007559-d8ab-493d-9feb-50f53d56242f.png)
+![image](https://user-images.githubusercontent.com/81119854/125842852-d3644666-728e-4017-bdaf-5af5fea95480.png)
 
-x
+![image](https://user-images.githubusercontent.com/81119854/125842922-e6e0bd66-232e-4ba8-b4d0-b22b293c0d0f.png)
 
-![image](https://user-images.githubusercontent.com/81119854/125841901-a9723a46-003b-4923-900b-1418eab19a2b.png)
-
-![image](https://user-images.githubusercontent.com/81119854/125835165-272a4431-5ec3-4ae0-a7cc-157cc3d1506c.png)
-
-![image](https://user-images.githubusercontent.com/81119854/125835250-71ac1bd5-9db9-4c2d-b4b2-cb881040c0de.png)
-
-![image](https://user-images.githubusercontent.com/81119854/125838568-fa7ce5f3-8a50-4df1-8489-6363d0a32551.png)
