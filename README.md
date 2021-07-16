@@ -506,3 +506,16 @@ Firstly, we import library. Then, we enter the database credentials.
 ![image](https://user-images.githubusercontent.com/81119854/125847431-2e7a33f0-1ead-429c-a6c2-009ff251294c.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/125849362-c38f0d3c-4032-4568-811b-27354876b0b3.png)
+
+Retrieving the data into the pandas
+
+![image](https://user-images.githubusercontent.com/81119854/125961290-1c510b64-c333-4553-bd7e-dd4560cfc530.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125961450-a3a0701c-dfbf-48b8-abb8-fa40fe68f985.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125961503-b53e3230-d367-4e71-aa61-cd023d86511b.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125961921-0ed7384c-b908-433e-ab61-abdfd53e07a7.png)
+
+![image](https://user-images.githubusercontent.com/81119854/125961988-96650201-cb10-44a7-98df-c38a2281112e.png)
+
