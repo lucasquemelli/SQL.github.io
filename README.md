@@ -576,3 +576,7 @@ Now, we are going to store the dataset in a table. We will first read the datase
 
 ![image](https://user-images.githubusercontent.com/81119854/126198617-bb30efce-bfa6-4237-bd7e-c54701007a56.png)
 
+![image](https://user-images.githubusercontent.com/81119854/126198939-3fbd6c07-2dae-483b-842b-79fc6bd8b1fa.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126199254-4df31bf9-6443-424c-b5ac-710f7447cef9.png)
+
