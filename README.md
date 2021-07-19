@@ -587,6 +587,9 @@ Now, we are going to store the dataset in a table. We will first read the datase
 
 ![image](https://user-images.githubusercontent.com/81119854/126203628-5c392973-1f7f-4dc6-acc8-551bc824f75e.png)
 
+![image](https://user-images.githubusercontent.com/81119854/126204233-fab13ac4-d7d6-4a01-bc09-1f55a320687f.png)
 
+![image](https://user-images.githubusercontent.com/81119854/126204275-faa329fd-23a6-4deb-85c8-c7d6275b38f1.png)
 
+Tha scatter plot above shows that once the per capita income increases, the hardship index decreases. It means there is a negative correlation between the axis/variables. 
 
