@@ -553,3 +553,20 @@ We can easily convert a SQL query result to a pandas dataframe using the DataFra
 ![image](https://user-images.githubusercontent.com/81119854/126168950-589fbbb6-0a6e-4c19-bdc7-6a27cc9a8c7d.png)
 
 ![image](https://user-images.githubusercontent.com/81119854/126169002-fe189298-aa8f-438d-9496-3262a31cb8de.png)
+
+# Analyzing data with Python
+
+In this task, we we'll use a dataset of socioeconomic data to the Chicago City Portal. A brief description of the variables may seen below:
+
+![image](https://user-images.githubusercontent.com/81119854/126196517-c8c7519f-71bb-4103-bdac-ca8cb7427b74.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126196574-bc536751-94c7-487a-a0cb-f6f5cd3bd3e2.png)
+
+Firstly, we must connect to the database:
+
+![image](https://user-images.githubusercontent.com/81119854/126196876-45667135-83d5-4d2d-8753-3aa32ad1d7f9.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126196952-fd9def0a-c97e-40b1-9729-de06abd641d4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126196993-fb5d9b1d-a7a1-4bd7-a74b-4878b6b60a74.png)
+
