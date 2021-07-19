@@ -570,3 +570,9 @@ Firstly, we must connect to the database:
 
 ![image](https://user-images.githubusercontent.com/81119854/126196993-fb5d9b1d-a7a1-4bd7-a74b-4878b6b60a74.png)
 
+Now, we are going to store the dataset in a table. We will first read the dataset source .CSV from the internet into pandas dataframe. Then we need to create a table in our Db2 database to store the dataset. The PERSIST command in SQL "magic" simplifies the process of table creation and writing the data from a pandas dataframe into the table.
+
+![image](https://user-images.githubusercontent.com/81119854/126198516-61e07ec6-cbb1-4043-91b5-70331b679dae.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126198617-bb30efce-bfa6-4237-bd7e-c54701007a56.png)
+
