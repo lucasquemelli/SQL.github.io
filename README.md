@@ -534,3 +534,7 @@ For convenience, we can use %%sql (two %'s instead of one) at the top of a cell 
 
 ![image](https://user-images.githubusercontent.com/81119854/126163815-ecb9eafa-2c9d-410e-b6bd-84f7ae0cf483.png)
 
+We can use python variables in your SQL statements by adding a ":" prefix to your python variable names. For example, if I have a python variable country with a value of "Canada", we can use this variable in a SQL query to find all the rows of students from Canada.
+
+![image](https://user-images.githubusercontent.com/81119854/126167400-d0045b97-cd78-46cc-b9f5-6db8b9549721.png)
+
