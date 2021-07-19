@@ -523,14 +523,10 @@ Retrieving the data into the pandas
 
 ![image](https://user-images.githubusercontent.com/81119854/126159200-893405d7-0a05-495b-aeca-2a4fff08d127.png)
 
-![image](https://user-images.githubusercontent.com/81119854/126159689-fc5ccc98-6404-4646-9d8a-c2a28fdb4ba9.png)
+![image](https://user-images.githubusercontent.com/81119854/126163452-8e0fc545-7732-473d-af98-7830a17b3fba.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126163511-e26d4f3f-2234-4ec2-8fee-0e950978bb19.png)
+
 
 For convenience, we can use %%sql (two %'s instead of one) at the top of a cell to indicate we want the entire cell to be treated as SQL. Let's use this to create a table and fill it with some test data for experimenting.
 
-![image](https://user-images.githubusercontent.com/81119854/126160249-62143bf6-2fcb-49c6-95ec-e2c9351f33bd.png)
-
-![image](https://user-images.githubusercontent.com/81119854/126160316-ccc2ba16-d188-4e35-bc8f-6dbb3803ecf0.png)
-
-![image](https://user-images.githubusercontent.com/81119854/126163173-f32a27e2-f075-47a9-a94b-d9da9454c6c5.png)
-
-![image](https://user-images.githubusercontent.com/81119854/126163231-7cada665-fe1b-4163-b58b-82aa31902a75.png)
