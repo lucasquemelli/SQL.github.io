@@ -546,4 +546,10 @@ We can use the normal python assignment syntax to assign the results of your que
 
 ![image](https://user-images.githubusercontent.com/81119854/126168287-44aa4e5b-b601-47da-a1d0-b69747c8e22c.png)
 
+We can easily convert a SQL query result to a pandas dataframe using the DataFrame() method. Dataframe objects are much more versatile than SQL query result objects. For example, we can easily graph our test score distribution after converting to a dataframe.
 
+![image](https://user-images.githubusercontent.com/81119854/126168658-8e6fab55-b284-43ae-b46b-5f1b99a269f4.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126168950-589fbbb6-0a6e-4c19-bdc7-6a27cc9a8c7d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126169002-fe189298-aa8f-438d-9496-3262a31cb8de.png)
