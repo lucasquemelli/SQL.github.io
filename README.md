@@ -538,3 +538,12 @@ We can use python variables in your SQL statements by adding a ":" prefix to you
 
 ![image](https://user-images.githubusercontent.com/81119854/126167400-d0045b97-cd78-46cc-b9f5-6db8b9549721.png)
 
+We can use the normal python assignment syntax to assign the results of your queries to python variables. For example, we have a SQL query to retrieve the distribution of test scores (i.e. how many students got each score). We can assign the result of this query to the variable test_score_distribution using the = operator.
+
+![image](https://user-images.githubusercontent.com/81119854/126168185-1f5c8c37-313a-4f3d-bcd0-afb9af7b5d3d.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126168231-70d2543f-7476-400b-aeea-0f76c05591e1.png)
+
+![image](https://user-images.githubusercontent.com/81119854/126168287-44aa4e5b-b601-47da-a1d0-b69747c8e22c.png)
+
+
