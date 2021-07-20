@@ -593,3 +593,13 @@ Now, we are going to store the dataset in a table. We will first read the datase
 
 Tha scatter plot above shows that once the per capita income increases, the hardship index decreases. It means there is a negative correlation between the axis/variables. 
 
+# Working with a real world dataset
+
+First, we must load the ipython-sql extension and establish a connection with the database. 
+
+![image](https://user-images.githubusercontent.com/81119854/126361224-f9ba98b8-cc16-4204-8c43-6a9d686051ed.png)
+
+We can verify that the table creation was successful by checking whether the SCHOOLS table was created.
+
+![image](https://user-images.githubusercontent.com/81119854/126364123-1badb3ce-610b-4279-a05b-a6749374a496.png)
+
