@@ -603,3 +603,11 @@ We can verify that the table creation was successful by checking whether the SCH
 
 ![image](https://user-images.githubusercontent.com/81119854/126364123-1badb3ce-610b-4279-a05b-a6749374a496.png)
 
+In order to check the number of columns, we must do:
+
+![image](https://user-images.githubusercontent.com/81119854/126364454-152e0192-35c9-4ed6-be9c-22a3f72ccd0d.png)
+
+Retrieve the the list of columns in SCHOOLS table and their column type (datatype) and length.
+
+![image](https://user-images.githubusercontent.com/81119854/126364642-3b7e26c2-f5c3-440c-a423-21b0a2c9ad51.png)
+
